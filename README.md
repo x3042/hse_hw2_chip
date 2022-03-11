@@ -43,7 +43,17 @@ fastqc для ENCFF002ABH:
 не могу сказать, что стало сильно лучше, можно было не обрезать
 
 fastqc для ENCFF002ABM:
-до обрезания 
+до обрезания vs после
 
 <p float="left">
-  
+<img width="350" alt="Screenshot 2022-03-11 at 23 47 44" src="https://user-images.githubusercontent.com/72338612/157961417-59e68eab-b65a-4fee-891a-96095c98a0f0.png">
+  <img width="350" alt="Screenshot 2022-03-11 at 23 52 56" src="https://user-images.githubusercontent.com/72338612/157963153-4c06f3c0-cff1-48fa-9eb4-a93cb658f765.png">
+
+<img width="350" alt="Screenshot 2022-03-11 at 23 48 27" src="https://user-images.githubusercontent.com/72338612/157961625-6a08b73e-7010-4638-a8ee-4d2f7c9d3bde.png">
+<img width="350" alt="Screenshot 2022-03-11 at 23 49 47" src="https://user-images.githubusercontent.com/72338612/157962006-135c020c-ff31-451d-b5ee-d8a43e939930.png">
+<img width="350" alt="Screenshot 2022-03-11 at 23 50 04" src="https://user-images.githubusercontent.com/72338612/157962084-a17a7550-93ba-4151-b6c2-e1aa8e2f471f.png">
+<img width="350" alt="Screenshot 2022-03-11 at 23 50 19" src="https://user-images.githubusercontent.com/72338612/157962167-a4003216-23d6-463f-bb04-a94525bfd849.png">
+<img width="350" alt="Screenshot 2022-03-11 at 23 50 36" src="https://user-images.githubusercontent.com/72338612/157962281-53ebe425-107a-4052-9b87-2b7ff5181dba.png">
+<img width="350" alt="Screenshot 2022-03-11 at 23 50 51" src="https://user-images.githubusercontent.com/72338612/157962386-9d07714b-5407-40fd-853a-54df98f8546b.png">
+</p>
+не могу сказать, что стало сильно лучше, можно было не обрезать
